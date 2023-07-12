@@ -177,24 +177,10 @@ model = GradientBoostingRegressor(random_state = random_state)
 my_GridSearch(model, train, y, param_grid, verbose=1, n_jobs=1)
 Fitting 5 folds for each of 1 candidates, totalling 5 fits
 
-# 캐글 제출을 위한 모델 학습및 결과값 저장
-def save_submission(model, train, y, test, model_name, rmsle=None):
-
-    model.fit(train, y)
-    prediction = model.predict(test)
-    prediction = np.expm1(prediction)
-    data_dir = os.getenv('HOME')+'/aiffel/kaggle_kakr_housing/data'
-    submission_path = join(data_dir, 'submission.csv')
-    submission = pd.read_csv(submission_path)
-    submission['price'] = prediction
-    submission_csv_path = '{}/submission_{}_RMSLE_{}.csv'.format(data_dir, model_name, rmsle)
-    submission.to_csv(submission_csv_path, index=False)
-    print('{} saved~!'.format(submission_csv_path))
 
 ```
 
 # 참고 링크 및 코드 개선
 ```python
-수정할 코드는 없는 것으로 보이며
-데이터의 분포나 확인이 없는 것이 아쉬움
+수정할 코드는 없는 것으로 보임
 ```
