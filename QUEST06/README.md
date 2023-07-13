@@ -16,7 +16,7 @@
   > 반복적인 코드사용으로 솔직히 완벽히 이해하고 작성했다고는 판단할 수 없습니다.
     이하 5단락부터 11단락까지 내용이 반복되고 있습니다.
 
-'''python
+```python
 [5]
 for dlib_rect in dlib_rects: # 찾은 얼굴 영역의 좌표
     l = dlib_rect.left() # 왼쪽
@@ -111,7 +111,7 @@ for dlib_rect, landmark in zip(dlib_rects, list_landmarks): # 얼굴 영역을 �
 (637, 569)
 (x,y) : (637,338)
 (w,h) : (463,463)  
-'''
+```
 
 - [ ] 코드가 간결한가요?
   > 위의 내용과 같이 대체적으로 코드가 계속 반복되고 있습니다.
