@@ -13,15 +13,18 @@
     - 주석을 통해 두 단어를 헷갈리지 않을 수 있었습니다. 
   ![2](https://github.com/shinnew99/Aiffel_Quest/assets/134067511/d5729f52-a3a3-489e-808a-5bc719e08a5e)
 
+
 - [O]  **3. 에러가 난 부분을 디버깅하여 문제를 “해결한 기록을 남겼거나” 
   ”새로운 시도 또는 추가 실험을 수행”해봤나요?**
-  -코딩을 진행하는 과정에 오류가 발생하여 설치하여 해결한 것으로 보여집니다. 
+    - 코딩을 진행하는 과정에 오류가 발생하여 설치하여 해결한 것으로 보여집니다. 
   ![3](https://github.com/shinnew99/Aiffel_Quest/assets/134067511/589db1b4-c3f5-4f7b-8f47-d4fdedbdeb25)
 
   
 - [X]  **4. 회고를 잘 작성했나요?**
-    - 
-    
+    - 코딩 과정 전반에 걸쳐 느낀 점에 대해 회고로 작성하였습니다
+   ![image](https://github.com/shinnew99/Aiffel_Quest/assets/134067511/05379878-6107-444a-b8e8-ff1d88551543)
+
+
 - [O]  **5. 코드가 간결하고 효율적인가요?**
     - 파라미터 집합을 통해 간결히 작성하였습니다. 
   ![5](https://github.com/shinnew99/Aiffel_Quest/assets/134067511/fa0ae40a-9a72-4cfe-816b-eb16107922c9)
