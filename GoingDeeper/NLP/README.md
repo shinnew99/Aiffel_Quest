@@ -1,7 +1,8 @@
 Contents from GoingDeeper, NLP progress.
-CONTENTS
-N	Title	Contents
-1	텍스트 데이터 다루기	다양한 텍스트 데이터 전처리 기법을 소개. Word나 형태소 레벨의 tokenizer 및 subword 레벨 tokenizing 기법(BPE, sentencepiece) 학습
+##CONTENTS
+|N|Title|Contents|
+|------|------|------|
+|1|	텍스트 데이터 다루기|	다양한 텍스트 데이터 전처리 기법을 소개. Word나 형태소 레벨의 tokenizer 및 subword 레벨 tokenizing 기법(BPE, sentencepiece) 학습|
 2	멋진 단어사전 만들기	[PROJECT] 단어사전을 만들어보고 이를 토대로 perplexity를 측정해보는 프로젝트
 3	텍스트의 분포로 벡터화 하기	텍스트 분포를 이용한 텍스트의 벡터화 방법들(BoW, DTM, TF-IDF, LSA, LDA)
 4	뉴스 카테고리 다중분류	[PROJECT] 뉴스 텍스트의 주제를 분류하는 task를 다양한 기법으로 시도해보고 비교, 분석 하는 프로젝트
