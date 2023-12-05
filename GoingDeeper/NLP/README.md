@@ -1,8 +1,5 @@
-Contents from GoingDeeper, NLP progress.
-
-<br><br>##CONTENTS
-
-<br><br>
+<b>Contents</b> of GoingDeeper, NLP progress.
+<br>
 |GD#|Node Number|Title|Contents|
 |----|------|------|------|
 GD01|1|텍스트 데이터 다루기 <br>Handling Text Data | 다양한 텍스트 데이터 전처리 기법을 소개, Word나 형태소 레벨의 tokenizer 및 subword 레벨 tokenizing 기법(BPE, sentencepiece) 학습 <br>Introducing various text data preprocessing techniques, including tokenizers at the word or morpheme level, and subword-level tokenizing techniques (BPE, sentencepiece)|
