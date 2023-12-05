@@ -28,7 +28,8 @@
 
 
 
-
+* 주의 *
 <br> 
 - Reference 빠짐
+<br> 
 - Fundamental 10, 13만 챙김 
