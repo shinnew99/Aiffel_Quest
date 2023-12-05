@@ -1,6 +1,9 @@
 Contents from GoingDeeper, NLP progress.
-##CONTENTS
-GD#|Node Number|Title|Contents|
+
+<br><br>##CONTENTS
+
+<br><br>
+|GD#|Node Number|Title|Contents|
 |----|------|------|------|
 GD01|1|텍스트 데이터 다루기 <br>Handling Text Data | 다양한 텍스트 데이터 전처리 기법을 소개, Word나 형태소 레벨의 tokenizer 및 subword 레벨 tokenizing 기법(BPE, sentencepiece) 학습 <br>Introducing various text data preprocessing techniques, including tokenizers at the word or morpheme level, and subword-level tokenizing techniques (BPE, sentencepiece)|
 |GD01|2&3|멋진 단어사전 만들기 <br>Creating an Impressive Vocabulary | [PROJECT] 단어사전을 만들어보고 이를 토대로 perplexity를 측정해보는 프로젝트 <br>Create a vocabulary and measure perplexity based on it as a project|
