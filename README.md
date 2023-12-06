@@ -90,24 +90,24 @@
 <br>
 |GD#|Node Number|Title|Contents|
 |---|-----------|-----|--------|
-|GD01|1| <br>영어번역예정 | <br>|
-|GD01|2&3|없다면 어떻게 될까?<br>영어번역예정 | [PROJECT]ResNet Ablation Study |
-|GD02|4| <br> | <br> |
-|GD02|5&6|이미지 어디까지 우려볼까 <br>| [PROJECT]Data Augmentation|
-|GD03|7| <br> | <br> |
-|GD03|8&9|나를 찾아줘 - Class Activation Map 만들기 <br> | <br> |
-|GD04|10| <br> | <br> |
-|GD04|11&12|GO/STOP! - Object Detection 시스템 만들기 <br> |Class Activation Map |
-|GD05|13| <br> | <br> |
-|GD05|14&15|도로 영역을 찾자! - 세그멘테이션 모델 만들기 <br> | <br> |
-|GD06|16| <br> | <br> |
-|GD06|17&18|직접 만들어보는 OCR_Optical Character Recognition <br> |OCR_Optical Character Recognition|
-|GD07|19| <br> | <br> |
-|GD07|20&21|멀리 있는 사람도 스티커를 붙여주자 <br> |One-Stage Object Detection|
-|GD08|22| <br> | <br> |
-|GD08|23&24|행동 스티커 만들기 <br> |OCR_Optical Character RecognitionHuman Pose Estimation|
-|GD09|25| <br> | <br> |
-|GD09|26&27|Stable Diffusion, 너 Do? 나 Do! <br> |Stable Diffusion|
+|GD01|1| 수정예정<br>영어번역예정 |수정예정<br>영어번역예정|
+|GD01|2&3|없다면 어떻게 될까?<br>영어번역예정 | [PROJECT]ResNet Ablation Study|
+|GD02|4| 수정예정<br>영어번역예정 | 수정예정<br>영어번역예정 |
+|GD02|5&6|이미지 어디까지 우려볼까 <br>영어번역예정| [PROJECT]Data Augmentation|
+|GD03|7| 수정예정<br>영어번역예정 |수정예정 <br>영어번역예정 |
+|GD03|8&9|나를 찾아줘 - Class Activation Map 만들기 <br>영어번역예정 | 수정예정<br>영어번역예정 |
+|GD04|10| 수정예정<br>영어번역예정 | 수정예정 <br>영어번역예정 |
+|GD04|11&12|GO/STOP! - Object Detection 시스템 만들기 <br>영어번역예정 | Class Activation Map|
+|GD05|13| 수정예정<br>영어번역예정 | 수정예정<br>영어번역예정 |
+|GD05|14&15|도로 영역을 찾자! - 세그멘테이션 모델 만들기 <br>영어번역예정 | 수정예정<br>영어번역예정 |
+|GD06|16| 수정예정<br>영어번역예정 | 수정예정<br>영어번역예정 |
+|GD06|17&18|직접 만들어보는 OCR_Optical Character Recognition <br>영어번역예정 |OCR_Optical Character Recognition|
+|GD07|19| 수정예정<br>영어번역예정 | 수정예정<br>영어번역예정 |
+|GD07|20&21|멀리 있는 사람도 스티커를 붙여주자 <br>영어번역예정 |One-Stage Object Detection|
+|GD08|22| 수정예정<br>영어번역예정 | 수정예정<br>영어번역예정 |
+|GD08|23&24|행동 스티커 만들기 <br>영어번역예정 |OCR_Optical Character RecognitionHuman Pose Estimation|
+|GD09|25| 수정예정<br>영어번역예정 | 수정예정<br>영어번역예정 |
+|GD09|26&27|Stable Diffusion, 너 Do? 나 Do! <br>영어번역예정 |Stable Diffusion|
 
 
 <br><br>
@@ -118,4 +118,5 @@
 |1|폐렴아 기다려라!|폐사진 보고 환자/비환자 예측하기|
 |2|PASCAL VOC 2012|Image Augmentation|
 |3|Motorcycle Night Road|<b>수정예정</b>|
+|4|논문쓰기|SentimentAnalysis관련해서 간단하게 논문씀|
 
