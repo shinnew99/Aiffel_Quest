@@ -36,6 +36,7 @@
 |---|-------|----|
 |Not|Yet|Uploaded|
 
+
 <br><br>
 ### Eploration QUEST
 |No.|Project|Task|
@@ -52,7 +53,7 @@
 
 <br><br>
 ### DL_Master
-딥러닝 한번에 끝내기
+딥러닝 한번에 끝내기 모듈
 <br>
 |Proejct|Contents|
 |-------|--------|
@@ -87,32 +88,30 @@
 
 <br><br>
 ### GoingDeeper CV
-<br>
 |GD#|Node Number|Title|Contents|
 |---|-----------|-----|--------|
-|GD01|1| 수정예정<br>영어번역예정 |수정예정<br>영어번역예정|
+|GD01|1|수정예정<br>영어번역예정 | 수정예정<br>영어번역예정|
 |GD01|2&3|없다면 어떻게 될까?<br>영어번역예정 | [PROJECT]ResNet Ablation Study|
-|GD02|4| 수정예정<br>영어번역예정 | 수정예정<br>영어번역예정 |
+|GD02|4|수정예정<br>영어번역예정 | 수정예정<br>영어번역예정|
 |GD02|5&6|이미지 어디까지 우려볼까 <br>영어번역예정| [PROJECT]Data Augmentation|
-|GD03|7| 수정예정<br>영어번역예정 |수정예정 <br>영어번역예정 |
-|GD03|8&9|나를 찾아줘 - Class Activation Map 만들기 <br>영어번역예정 | 수정예정<br>영어번역예정 |
-|GD04|10| 수정예정<br>영어번역예정 | 수정예정 <br>영어번역예정 |
+|GD03|7|수정예정<br>영어번역예정 | 수정예정 <br>영어번역예정|
+|GD03|8&9|나를 찾아줘 - Class Activation Map 만들기 <br>영어번역예정 | 수정예정<br>영어번역예정|
+|GD04|10|수정예정<br>영어번역예정 | 수정예정 <br>영어번역예정|
 |GD04|11&12|GO/STOP! - Object Detection 시스템 만들기 <br>영어번역예정 | Class Activation Map|
-|GD05|13| 수정예정<br>영어번역예정 | 수정예정<br>영어번역예정 |
-|GD05|14&15|도로 영역을 찾자! - 세그멘테이션 모델 만들기 <br>영어번역예정 | 수정예정<br>영어번역예정 |
-|GD06|16| 수정예정<br>영어번역예정 | 수정예정<br>영어번역예정 |
+|GD05|13|수정예정<br>영어번역예정 | 수정예정<br>영어번역예정|
+|GD05|14&15|도로 영역을 찾자! - 세그멘테이션 모델 만들기 <br>영어번역예정 | 수정예정<br>영어번역예정|
+|GD06|16|수정예정<br>영어번역예정 | 수정예정<br>영어번역예정|
 |GD06|17&18|직접 만들어보는 OCR_Optical Character Recognition <br>영어번역예정 |OCR_Optical Character Recognition|
-|GD07|19| 수정예정<br>영어번역예정 | 수정예정<br>영어번역예정 |
-|GD07|20&21|멀리 있는 사람도 스티커를 붙여주자 <br>영어번역예정 |One-Stage Object Detection|
-|GD08|22| 수정예정<br>영어번역예정 | 수정예정<br>영어번역예정 |
-|GD08|23&24|행동 스티커 만들기 <br>영어번역예정 |OCR_Optical Character RecognitionHuman Pose Estimation|
-|GD09|25| 수정예정<br>영어번역예정 | 수정예정<br>영어번역예정 |
-|GD09|26&27|Stable Diffusion, 너 Do? 나 Do! <br>영어번역예정 |Stable Diffusion|
+|GD07|19|수정예정<br>영어번역예정 | 수정예정<br>영어번역예정|
+|GD07|20&21|멀리 있는 사람도 스티커를 붙여주자 <br>영어번역예정 | One-Stage Object Detection|
+|GD08|22|수정예정<br>영어번역예정 | 수정예정<br>영어번역예정|
+|GD08|23&24|행동 스티커 만들기 <br>영어번역예정 | OCR_Optical Character RecognitionHuman Pose Estimation|
+|GD09|25|수정예정<br>영어번역예정 | 수정예정<br>영어번역예정|
+|GD09|26&27|Stable Diffusion, 너 Do? 나 Do! <br>영어번역예정 | Stable Diffusion|
 
 
 <br><br>
 ### Main Quest
-<br>
 |No|Project|Contents|
 |--|-------|--------|
 |1|폐렴아 기다려라!|폐사진 보고 환자/비환자 예측하기|
