@@ -14,7 +14,7 @@
 |07.10~07.20|Exploration|AI에 필요한 함수 클론코딩|
 |07.21|MainQuest|MainQuest|
 |07.24~07.25|딥러닝 한번에 끝내기|DL_Master|
-|07.26~08.9|DeppLearningwithPython_2ndEdition|케창딥 책 훑어봄 <br>https://github.com/shinnew99/DeepLearningwithPython_2ndEdition|
+|07.26~08.9|DeppLearningwithPython_2ndEdition|케창딥 책 훑어봄 <br>https://github.com/shinnew99/DeepLearningwithPython_2ndEdition |
 |08.10|MainQuest2|암환자맞추기|
 |08.11~08.24|GoingDeeper~05||
 |08.25~08.30|DL_thon|KoreaHateSpeech|
