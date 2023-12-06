@@ -89,7 +89,7 @@
 ### GoingDeeper CV
 <br>
 |GD#|Node Number|Title|Contents|
-|---|-----------|-----|-------|
+|---|-----------|-----|--------|
 |GD01|1| <br>영어번역예정 | <br>|
 |GD01|2&3|없다면 어떻게 될까?<br>영어번역예정 | [PROJECT]ResNet Ablation Study |
 |GD02|4| <br> | <br> |
