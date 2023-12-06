@@ -50,7 +50,6 @@
 |8|트랜스포머로 만드는 대화형 챗봇|Transformer|
 
 
-
 <br><br>
 ### DL_Master
 딥러닝 한번에 끝내기
