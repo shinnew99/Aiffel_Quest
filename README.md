@@ -33,7 +33,8 @@
 <br><br>
 ### Fundamental QUEST
 |No.|Project|Task|
-
+|---|-------|----|
+|Not|Yet|Uploaded|
 
 <br><br>
 ### Eploration QUEST
@@ -63,9 +64,8 @@
 
 <br><br>
 ### GoingDeeper NLP
-<br>
 |GD#|Node Number|Title|Contents|
-|----|------|------|------|
+|---|-----------|-----|--------|
 |GD01|1|텍스트 데이터 다루기 <br>Handling Text Data | 다양한 텍스트 데이터 전처리 기법을 소개, Word나 형태소 레벨의 tokenizer 및 subword 레벨 tokenizing 기법(BPE, sentencepiece) 학습 <br>Introducing various text data preprocessing techniques, including tokenizers at the word or morpheme level, and subword-level tokenizing techniques (BPE, sentencepiece)|
 |GD01|2&3|멋진 단어사전 만들기 <br>Creating an Impressive Vocabulary | [PROJECT] 단어사전을 만들어보고 이를 토대로 perplexity를 측정해보는 프로젝트 <br>Create a vocabulary and measure perplexity based on it as a project|
 |GD02|4|텍스트의 분포로 벡터화 하기 <br>Vectorizing Text Based on Distribution | 텍스트 분포를 이용한 텍스트의 벡터화 방법들(BoW, DTM, TF-IDF, LSA, LDA)<br>Methods for vectorizing text using text distributions (BoW, DTM, TF-IDF, LSA, LDA)|
@@ -90,7 +90,7 @@
 ### GoingDeeper CV
 <br>
 |GD#|Node Number|Title|Contents|
-|----|------|------|------|
+|---|-----------|-----|-------|
 |GD01|1| <br>영어번역예정 | <br>|
 |GD01|2&3|없다면 어떻게 될까?<br>영어번역예정 | [PROJECT]ResNet Ablation Study |
 |GD02|4| <br> | <br> |
@@ -115,6 +115,7 @@
 ### Main Quest
 <br>
 |No|Project|Contents|
+|--|-------|--------|
 |1|폐렴아 기다려라!|폐사진 보고 환자/비환자 예측하기|
 |2|PASCAL VOC 2012|Image Augmentation|
 |3|Motorcycle Night Road|<b>수정예정</b>|
