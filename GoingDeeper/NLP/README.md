@@ -1,10 +1,9 @@
-<b>Contents</b> of GoingDeeper, NLP progress.
-<br>
+### GoingDeeper NLP
 |GD#|Node Number|Title|Contents|
-|----|------|------|------|
-GD01|1|텍스트 데이터 다루기 <br>Handling Text Data | 다양한 텍스트 데이터 전처리 기법을 소개, Word나 형태소 레벨의 tokenizer 및 subword 레벨 tokenizing 기법(BPE, sentencepiece) 학습 <br>Introducing various text data preprocessing techniques, including tokenizers at the word or morpheme level, and subword-level tokenizing techniques (BPE, sentencepiece)|
+|---|-----------|-----|--------|
+|GD01|1|텍스트 데이터 다루기 <br>Handling Text Data | 다양한 텍스트 데이터 전처리 기법을 소개, Word나 형태소 레벨의 tokenizer 및 subword 레벨 tokenizing 기법(BPE, sentencepiece) 학습 <br>Introducing various text data preprocessing techniques, including tokenizers at the word or morpheme level, and subword-level tokenizing techniques (BPE, sentencepiece)|
 |GD01|2&3|멋진 단어사전 만들기 <br>Creating an Impressive Vocabulary | [PROJECT] 단어사전을 만들어보고 이를 토대로 perplexity를 측정해보는 프로젝트 <br>Create a vocabulary and measure perplexity based on it as a project|
-|GD02|4|텍스트의 분포로 벡터화 하기 <br>Vectorizing Text Based on Distribution | 텍스트 분포를 이용한 텍스트의 벡터화 방법들(BoW, DTM, TF-IDF, LSA, LDA)<br>Methods for vectorizing text using text distributions (BoW, DTM, TF-IDF, LSA, LDA)|
+|GD02|4|텍스트의 분포로 벡터화 하기 <br>Vectorizing Text Based on Distribution | 텍스트 분포를 이용한 텍스트의 벡터화 방법들(BoW, DTM, TF-IDF, LSA, LDA) <br>Methods for vectorizing text using text distributions (BoW, DTM, TF-IDF, LSA, LDA)|
 |GD02|5&6|뉴스 카테고리 다중분류 <br>News Category Multi-Classification | [PROJECT] 뉴스 텍스트의 주제를 분류하는 task를 다양한 기법으로 시도해보고 비교, 분석 하는 프로젝트 <br>[PROJECT] Attempting and comparing various techniques for classifying the topics of news text, with analysis, as a project|
 |GD03|7|워드 임베딩 <br>Word Embeddings | 워드 임베딩 벡터(Word2Vec, FastText, Glove)의 원리와 사용법을 학습 <br>Learning the principles and usage of word embedding vectors (Word2Vec, FastText, Glove)|
 |GD03|8&9|WEAT | [PROJECT] WEAT(Word Embedding Association Test) 기법으로, Word Embedding Model 의 편향성 측정 <br>Measuring the bias of Word Embedding Models using the WEAT (Word Embedding Association Test) technique|
@@ -17,6 +16,6 @@ GD01|1|텍스트 데이터 다루기 <br>Handling Text Data | 다양한 텍스�
 |GD07|20|modern NLP의 흐름에 올라타보자 <br>Riding the Flow of Modern NLP | 트랜스포머를 바탕으로 한 최근 NLP 모델에 대해 학습 <br>Learning about recent NLP models based on Transformers|
 |GD07|21|BERT pretrained model 제작 <br>Creating a BERT Pretrained Model | 대표적인 pretrained language model인 BERT 원리에 대해 학습 <br>Learning about the principles of BERT, a representative pretrained language model|
 |GD08|22|NLP Framework의 활용 <br>Utilizing NLP Frameworks | 최다양한 NLP Framework에 대해 학습하고, Huggingface transformer를 중심으로 설계구조와 활용법 학습 <br>Learning about various NLP frameworks, focusing on the design structure and usage of Hugging Face Transformer|
-|GD08|23&24|16|HuggingFace 커스텀 프로젝트 만들기 <br>Creating a Custom Project with Hugging Face | Huggingface transformer를 활용한 커스텀 프로젝트 수행 <br>Performing a custom project using Hugging Face Transformer|
+|GD08|23&24|16 <b>여기빈칸채우기</b>|HuggingFace 커스텀 프로젝트 만들기 <br>Creating a Custom Project with Hugging Face | Huggingface transformer를 활용한 커스텀 프로젝트 수행 <br>Performing a custom project using Hugging Face Transformer|
 |GD09|25|#NLP Trend Note 1 | 최신 LLM 소개, InstructGPT의 SFT, RM, PPO 학습 메커니즘 소개 <br>ntroduction to the latest LLM, introduction to the training mechanisms of InstructGPT's SFT, RM, PPO|
-|GD09|26&27|#NLP Trend Note 2 <br> | KochatGPT 구현 <br>Implementation of KochatGPT|
+|GD09|26&27|#NLP Trend Note 2 | KochatGPT 구현 <br>Implementation of KochatGPT|
