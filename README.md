@@ -11,13 +11,13 @@
 |----|--------|--------------|
 |06.19~06.23|OnboardingQuest|Github Sync|
 |06.26~07.07|Fundamental|AI의 기본적인 개념을 수박 겉핥기식으로 다룸 <br>(활성함수 종류 및 평가지표 등) <br>We covered the basic concepts of AI including activation functions and embedding layers from DeepLearning|
-|07.10~07.20|Exploration|DL에 필요한 함수 클론코딩 <br>Clone coded the indispensable functions for DL|
-|07.21|MainQuest|MainQuest|
-|07.24~07.25|딥러닝 한번에 끝내기|DL_Master|
-|07.26~08.9|DeppLearningwithPython_2ndEdition|케창딥 책 훑어봄 <br>https://github.com/shinnew99/DeepLearningwithPython_2ndEdition |
-|08.10|MainQuest2|암환자 예측하기|
-|08.11~08.24|GoingDeeper~05||
-|08.25 & 08.28|뭐했더라..|
+|07.10~07.21|Exploration|DL에 필요한 함수 클론코딩 <br>Clone coded the indispensable functions for DL|
+|07.24|MainQuest|MainQuest|
+|07.25~07.26|딥러닝 한번에 끝내기|DL_Master|
+|07.27~08.10|DeppLearningwithPython_2ndEdition|케창딥 책 훑어봄 <br>https://github.com/shinnew99/DeepLearningwithPython_2ndEdition |
+|08.11|MainQuest2|암환자 예측하기|
+|08.14~08.25|GoingDeeper~05||
+|08.28|뭐했더라..|
 |08.29~08.30|DL_Thon|KoreaHateSpeech|
 |08.31|DL_Thon|MainQuest03_Presentation&Evaluate|
 |09.01~09.08|여름방학|방학일기남김|
