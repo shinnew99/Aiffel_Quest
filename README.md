@@ -77,9 +77,10 @@
 
 <br><br>
 ### DL_Master
-딥러닝 한번에 끝내기 모듈
-<br>
+
+<br> <b>딥러닝 한번에 끝내기 모듈</b>
 |No.|Contents|Task|
+|---|--------|----|
 |1| 딥러닝이란? <br>What is Deep Learning? | 인공신경망의 개념, 인공신경망과 딥러닝의 역사를 통해 딥러닝이 무엇인지 알 수 있습니다. <br>Learn about the concept of artificial neural networks and understand what deep learning is through the history of artificial neural networks and deep learning |
 |2| 텐서 표현과 연산 <br>Tensor Representation and Operations | 텐서란 무엇일까요? 이 노드에서는 텐서 개념, 텐서 데이터 타입을 이해하고, 텐서 연산을 수행해 봅니다. <br>What is a tensor? In this node, understand the concept of tensors, tensor data types, and perform tensor operations |
 |3| 딥러닝 구조와 모델 <br>Deep Learning Structures and Models | 딥러닝 모델(네트워크)를 구성하는 레이어에 대한 개념을 이해하고, 딥러닝 모델을 구성하는 방법에 대해서 학습합니다. <br>Understand the concepts of layers that make up deep learning models (networks) and learn how to structure deep learning models|
