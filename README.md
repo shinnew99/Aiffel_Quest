@@ -1,6 +1,7 @@
 # AIFFEL Online Campus 5th Cohort
 
 23.06.19 ~ 23.12.06
+<br>공휴일: 07.17(제헌절), 09.28~10.03(추석연휴) 
 
 <br> **주의**
 <br> - Reference 빠짐
@@ -26,6 +27,7 @@
 |논문읽기|SlowPaper 논문목록 (https://www.notion.so/modulabs/SLOW-PAPER-NLP-adedecbe5b904e6d9ee7c530161960b3)|
 |09.22~09.25|SlowPaper01|AttentionIsAllYouNeed(https://docs.google.com/presentation/d/1MqeNU0JrgaY8Als9QuuVYFhvXENMPFtc3FbOT5IpL6g/edit?usp=drive_web&ouid=106009627944923904485)|
 |09.26~09.27|SlowPaper02|LoRA(https://docs.google.com/presentation/d/1CqXfSn_tHaPKUpVcuWkhvRCnQ7nT-5DtMo-OtIQqrUg/edit)|
+|09.28~10.03|추석연휴|Chuseok_Korean Thanksgiving Holiday|
 |10.04~10.05|SlowPaper03|LLM.int8()(https://docs.google.com/presentation/d/1YLOhDiw4ktLE6nK9sKNPesNTHo92wsFDss5dnSY1ILk/edit)|
 |10.06~10.09|SlowPaper04|QLoRA(https://docs.google.com/presentation/d/199tFaio2voXvMHDA0TPmK9atrxr5boVSZbEFj5FlHjg/edit?usp=drive_web&ouid=106009627944923904485)|
 |10.10~10.15|PreAiffelThon||
@@ -92,7 +94,7 @@
 |9|딥러닝 모델 실습 <br>Deep Learning Model Practical Exercise | 그동안 배웠던 내용을 새로운 데이터셋인 Fashion MNIST에 적용해 봅니다. 특히 빠른 학습과 과대 적합을 방지하는 모델 최적화를 다양하게 실습합니다. <br>Apply the concepts learned so far to a new dataset, Fashion MNIST. Practice various model optimizations, focusing on fast training and preventing overfitting|
 |10|딥러닝 프로젝트 3개 <br>Three Deep Learning Projects | 다음표에 있음 <br>Listed in the table below|
 
-<br> <b>Module Projects</b>
+<br> <b>3 Projects</b>
 |Proejct|Contents|
 |-------|--------|
 |Project 1|Boston 주택 가격 예측 프로젝트 <br>Prediction Boston|
