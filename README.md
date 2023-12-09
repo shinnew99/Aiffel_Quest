@@ -79,7 +79,6 @@
 
 <br><br>
 ### DL_Master
-
 <br> <b>딥러닝 한번에 끝내기 모듈</b>
 |No.|Contents|Task|
 |---|--------|----|
