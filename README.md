@@ -17,8 +17,9 @@
 |07.26~08.9|DeppLearningwithPython_2ndEdition|케창딥 책 훑어봄 <br>https://github.com/shinnew99/DeepLearningwithPython_2ndEdition |
 |08.10|MainQuest2|암환자 예측하기|
 |08.11~08.24|GoingDeeper~05||
-|08.25~08.30|DL_Thon|KoreaHateSpeech|
-|08.31|DL_Thon|MainQuest03|
+|08.25|뭐했더라..|
+|08.28~08.30|DL_Thon|KoreaHateSpeech|
+|08.31|DL_Thon|MainQuest03_Presentation&Evaluate|
 |09.01~09.08|여름방학|방학일기남김|
 |09.11.월~09.20.목|GoingDeeper~09|논문작성가이드까지|
 |09.21.목|MainQuest04|논문씀|
