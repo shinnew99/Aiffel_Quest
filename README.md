@@ -24,7 +24,7 @@
 |09.01~09.08|여름방학|방학일기남김|
 |09.11.월~09.20.목|GoingDeeper~09|논문작성가이드까지|
 |09.21.목|MainQuest04|논문씀|
-|논문읽기|SlowPaper 논문목록 (https://www.notion.so/modulabs/SLOW-PAPER-NLP-adedecbe5b904e6d9ee7c530161960b3)|
+|논문읽기|SlowPaper 논문목록 (https://www.notion.so/modulabs/SLOW-PAPER-NLP-adedecbe5b904e6d9ee7c530161960b3)| 1.AttentionIsAllYouNeed <br>2.LoRA <br>3.LLM.int8() <br>4.QLoRA|
 |09.22~09.25|SlowPaper01|AttentionIsAllYouNeed(https://docs.google.com/presentation/d/1MqeNU0JrgaY8Als9QuuVYFhvXENMPFtc3FbOT5IpL6g/edit?usp=drive_web&ouid=106009627944923904485)|
 |09.26~09.27|SlowPaper02|LoRA(https://docs.google.com/presentation/d/1CqXfSn_tHaPKUpVcuWkhvRCnQ7nT-5DtMo-OtIQqrUg/edit)|
 |09.28~10.03|추석연휴|Chuseok_Korean Thanksgiving Holiday|
