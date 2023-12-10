@@ -96,7 +96,7 @@
 <br> <b>3 Projects</b>
 |Proejct|Contents|
 |-------|--------|
-|Project 1|Boston 주택 가격 예측 프로젝트 <br>Prediction Boston|
+|Project 1|Boston 주택 가격 예측 프로젝트 <br>Boston Housing Prediction Project|
 |Project 2|Reuters 데이터 분류 프로젝트 <br>Classifying TextData from Reuters|
 |Project 3|CIFAR10 데이터 분류 프로젝트 <br>Classifying CIFAR 10 Data|
 
